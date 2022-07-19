@@ -3,7 +3,7 @@
 
 /*==================== VARIABLES CSS ====================*/
 :root {
-  --header-height: 3rem;
+  --header-height: 2.5rem;
 
   /*========== Colors ==========*/
   /* Change favorite color : 190*/
@@ -626,6 +626,11 @@ img {
   margin-bottom: var(--mb-2);
 }
 
+.qualification__sections {
+  text-align: center;
+  grid-template-columns: 0.8fr;
+}
+
 .qualification__button {
   font-size: var(--h3-font-size);
   font-weight: var(--font-medium);
@@ -868,7 +873,7 @@ img {
   outline: none;
 }
 /*==================== PROJECT IN MIND ====================*/
-.project {
+/* .project {
   text-align: center;
 }
 
@@ -894,10 +899,10 @@ img {
 .project__img {
   width: 232px;
   justify-self: center;
-}
+} */
 
 /*==================== TESTIMONIAL ====================*/
-.testimonial__data,
+/* .testimonial__data,
 .testimonial__header {
   display: flex;
 }
@@ -934,7 +939,7 @@ img {
 
 .swiper-container .swiper-pagination-testimonial {
   bottom: 0;
-}
+} */
 
 /*==================== CONTACT ME ====================*/
 .contact__container {
