@@ -1,6 +1,6 @@
 ## Responsive Portfolio Website ✨
 
-Responsive Portfolio Website developed using HTML, CSS and JavaScript, with an elegant user interface and fully functional contact form.
+Responsive Portfolio Website developed using HTML, CSS and JavaScript, with an elegant user interface.
 
 Portfolio Website contains: 
 + Header 
@@ -10,4 +10,4 @@ Portfolio Website contains:
 + Experience
 + Services
 + Portfolio
-+ Contact (Functional)
++ Contact
