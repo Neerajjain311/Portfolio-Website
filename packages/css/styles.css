@@ -3,7 +3,7 @@
 
 /*==================== VARIABLES CSS ====================*/
 :root {
-  --header-height: 3.25rem;
+  --header-height: 3.5rem;
 
   /*========== Colors ==========*/
   /* Change favorite color : 190*/
@@ -1245,7 +1245,7 @@ img {
     }
 
     .nav {
-      height: calc(var(--header-height) + 0.75rem);
+      height: calc(var(--header-height) + 0.5rem);
       column-gap: 1rem;
     }
     .nav__icon,
