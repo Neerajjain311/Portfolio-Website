@@ -665,13 +665,13 @@ img {
 .qualification__subtitle2 {
   display: inline-block;
   font-size: var(--small-font-size);
-  margin-bottom: var(--mb-0-10);
+  margin-bottom: var(--mb-0-25);
 }
 
 .qualification__subtitle3 {
+  color: var(--title-color);
   display: inline-block;
   font-size: var(--small-font-size);
-  margin-bottom: var(--mb-0-25); 
   font-weight: var(--font-medium);
 }
 
