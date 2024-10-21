@@ -553,56 +553,20 @@ img {
   background-color: var(--first-color);
 }
 
-.skills__js {
-  width: 50%;
+.skills__60 {
+  width: 60%;
 }
 
-.skills__python {
+.skills__70 {
   width: 70%;
 }
 
-.skills__cpp {
+.skills__80 {
   width: 80%;
 }
 
-.skills__ps {
-  width: 80%;
-}
-
-.skills__airflow {
-  width: 80%;
-}
-
-.skills__fastapi {
-  width: 60%;
-}
-
-.skills__sql {
-  width: 60%;
-}
-
-.skills__shell {
-  width: 70%;
-}
-
-.skills__angular {
-  width: 65%;
-}
-
-.skills__html {
-  width: 50%;
-}
-
-.skills__bigdata {
-  width: 80%;
-}
-
-.skills__spark {
-  width: 60%;
-}
-
-.skills__kafka {
-  width: 60%;
+.skills__90 {
+  width: 90%;
 }
 
 .skills__close .skills__list {
@@ -650,6 +614,7 @@ img {
   display: grid;
   grid-template-columns: 1fr max-content 1fr;
   column-gap: 1.5rem;
+  margin-bottom: 13px;
 }
 
 .qualification__title {
