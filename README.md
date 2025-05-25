@@ -10,7 +10,7 @@
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-tech-stack">Tech Stack</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-getting-started">Getting Started</a>
+  <a href="#-license">License</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-contact">Contact</a>
 </p>
@@ -22,11 +22,8 @@
 1. [About](#about)  
 2. [Features](#features)  
 3. [Tech Stack](#tech-stack)  
-4. [Getting Started](#getting-started)  
-5. [Deployment](#deployment)  
-6. [Contributing](#contributing)  
-7. [License](#license)  
-8. [Contact](#contact)  
+4. [License](#license)  
+5. [Contact](#contact)  
 
 ---
 
