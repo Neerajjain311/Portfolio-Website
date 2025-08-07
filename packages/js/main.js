@@ -2,9 +2,8 @@
 const carouselText = [
   "Software Engineer",
   "Corporate Trainer",
-  "Generalist",
-  "Explorer",
-  "Life Long Student!"
+  "Tech Evangelist",
+  "Explorer"
 ]
 
 const intro = document.getElementById("introduction")
